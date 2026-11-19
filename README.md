@@ -2,6 +2,8 @@
 
 Visión artificial en tiempo real con la webcam: detecta parpadeos prolongados, ojos cerrados y bostezos a partir de los puntos faciales del rostro, y avisa en pantalla cuando aparecen señales de somnolencia.
 
+Más proyectos míos en **[andersein.com](https://andersein.com)**.
+
 ## Cómo funciona
 
 1. **Puntos faciales.** MediaPipe Face Mesh localiza los puntos del contorno de ojos y labios en cada fotograma.
